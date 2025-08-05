@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e76b66c.css",
+    "main.js": "/static/js/main.78cceb04.js",
+    "static/media/DreamLand_logo2.svg": "/static/media/DreamLand_logo2.64ec570589726759ffb8e5b3a8efe7c9.svg",
+    "static/media/Car_ani.svg": "/static/media/Car_ani.4b79500147a3c35b0a3b37350cbb7d15.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/Parking.svg": "/static/media/Parking.b22ef4397649236c9626d837749639fa.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Smoke_ani.svg": "/static/media/Smoke_ani.039d256f9e5943635bacd54679ed68dd.svg",
+    "static/media/Shadow_ani.svg": "/static/media/Shadow_ani.0a61ee4a7c1102b621ebb563b374df0f.svg",
+    "index.html": "/index.html",
+    "main.2e76b66c.css.map": "/static/css/main.2e76b66c.css.map",
+    "main.78cceb04.js.map": "/static/js/main.78cceb04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e76b66c.css",
+    "static/js/main.78cceb04.js"
+  ]
+}
